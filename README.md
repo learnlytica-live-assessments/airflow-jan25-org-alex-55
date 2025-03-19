@@ -20,4 +20,4 @@ Ensure your DAG is written using Airflow’s best practices.
 Example README excerpt:
 
 Airflow DAG Assignment
-In this assignment, you must implement an Airflow DAG that simulates an ETL process. Your DAG should contain three tasks (extract, transform, load) and run on a daily schedule
+In this assignment, you must implement an Airflow DAG that simulates an ETL process. Your DAG should contain three tasks (extract, transform, load) and run on a daily schedule.
